@@ -19,3 +19,13 @@ Based on:
 - [typescript v0.1.3] .
 ### Releases
 - [NPM v0.1.3] https://www.npmjs.com/package/@documenso/sdk-typescript/v/0.1.3 - .
+
+## 2025-03-03 00:22:47
+### Changes
+Based on:
+- OpenAPI Doc  
+- Speakeasy CLI 1.508.1 (2.536.0) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [typescript v0.2.0] .
+### Releases
+- [NPM v0.2.0] https://www.npmjs.com/package/@documenso/sdk-typescript/v/0.2.0 - .
